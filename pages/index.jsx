@@ -24,7 +24,7 @@ function Home() {
               </p>
               <div className="links">
                 <Link
-                  href="https://api.whatsapp.com/send/?phone=6281818189231"
+                  href="https://api.whatsapp.com/send/?phone=6281818189231&text=Halo%20kak%20saya%20mau%20order%20Merchandise%20Vierratale%20mohon%20dibantu"
                   passHref
                   className="cta"
                 >
