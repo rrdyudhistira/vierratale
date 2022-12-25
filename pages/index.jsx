@@ -177,7 +177,7 @@ function Home() {
         </div>
       </section >
 <div>
-        <audio src="/Vierratale.mp3" controls autoPlay />
+        <audio src="/Vierratale.mp3"  autoPlay />
       </div>
     </div >
   );
